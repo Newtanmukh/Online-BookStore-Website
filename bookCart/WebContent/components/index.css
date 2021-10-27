@@ -1,0 +1,12 @@
+body {
+ background-image: url("../images/b.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-color: rgba(0,0,0,0.5);
+}
+.card-top {
+	text-align: center;
+	padding: 2px;
+	color: white;
+	background-color: orange;
+}
